@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "ddabafce-0c1f-4b0f-97db-e8a94085066e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "External services - FC New server - New Relic 2018-12-10 10-31-49.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-02\/External services - FC New server - New Relic 2018-12-10 10-31-49.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 282240
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-06T10:35:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-06T10:35:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

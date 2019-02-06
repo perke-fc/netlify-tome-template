@@ -2,5 +2,12 @@
     "shortcut.6f731c9d-c955-44be-a2ca-25d5cbe853f2": [],
     "shortcut.ea8e8b43-bfa0-4b82-8e8b-0c181338fd89": [],
     "user.128a347d-1ffc-47a8-a7ce-3f2c56c46f11": [],
-    "user.3cb940b5-2f2f-47ff-8b49-725a39a64c7d": []
+    "user.3cb940b5-2f2f-47ff-8b49-725a39a64c7d": [],
+    "file.ddabafce-0c1f-4b0f-97db-e8a94085066e": [
+        "user.3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+    ],
+    "node.02da300f-6213-475f-81c7-91ddb1c02843": [
+        "user.3cb940b5-2f2f-47ff-8b49-725a39a64c7d",
+        "file.ddabafce-0c1f-4b0f-97db-e8a94085066e"
+    ]
 }

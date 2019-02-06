@@ -1,0 +1,115 @@
+{
+    "uuid": [
+        {
+            "value": "02da300f-6213-475f-81c7-91ddb1c02843"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "fbe38a5e-8a21-4c9d-824d-22b2dac9e9ad"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-02-06T10:35:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "test"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3cb940b5-2f2f-47ff-8b49-725a39a64c7d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-06T10:34:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-06T10:35:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>here goes some text<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "alt",
+            "title": "",
+            "width": 2446,
+            "height": 1148,
+            "target_type": "file",
+            "target_uuid": "ddabafce-0c1f-4b0f-97db-e8a94085066e"
+        }
+    ],
+    "field_tags": []
+}
