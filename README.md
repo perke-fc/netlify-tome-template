@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2eae7df-eddb-4d18-afaa-39c08c24b969/deploy-status)](https://app.netlify.com/sites/fc-tome/deploys)
+
+
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/drupal-tome/netlify-template)
 
 # Netlify template for Tome projects
